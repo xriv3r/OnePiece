@@ -1,6 +1,6 @@
 # One Piece
 
-[One Piece](https://onepiece.sh) is a treasure chest for me. These scripts are proper tools which help me save time. You are welcome to contribute your code.
+[One Piece](https://onepiece.sh) is a treasure chest for programmers. These scripts are proper tools which help programmers save time. You are welcome to contribute your code.
 
 ## Install
 
